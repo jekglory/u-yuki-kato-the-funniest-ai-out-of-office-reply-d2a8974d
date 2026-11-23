@@ -8,6 +8,9 @@ heading off on vacation. Pure standard library only.
 
 import os
 
+# One line, three training puns in a single vacation image: weights
+# sunbathing on the beach, gradients vanishing, and a loss value
+# that has never been lower -- the holiday makes the model better.
 REPLY = (
     "Out of office: my weights are on the beach, "
     "my gradients have vanished, and my loss has never "
