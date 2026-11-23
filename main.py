@@ -10,8 +10,8 @@ import os
 
 REPLY = (
     "Out of office: my weights are on the beach, "
-    "my gradients have vanished, and my loss function "
-    "is finally at peace. Back Monday."
+    "my gradients have vanished, and my loss has never "
+    "been lower. Back Monday."
 )
 
 
